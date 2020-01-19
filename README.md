@@ -1,7 +1,10 @@
 # Discord-Py-Bot
  A bot in python using discord.py
- In order to run the bot you will need to generate a discord bot token as well as a reddit API app. They're free and easy to generate.
+ 
+ In order to run the bot you will need to generate a discord bot token as well as a reddit API app. They're free and easy to generate
+ 
 Discord bot token: https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord
+
 Reddit API info: https://stackoverflow.com/a/42304034
  # Setup
 
