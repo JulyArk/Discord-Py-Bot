@@ -5,7 +5,7 @@
 
  create a py file called globals.py
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
- -# file paths
+
 copypasta_file_path = ""
 reactions_file_path = ""
 banned_subredditss = ""
