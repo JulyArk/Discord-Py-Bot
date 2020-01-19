@@ -3,7 +3,7 @@
  
  # Setup
 
- create a py file called globals.py
+ create a file called globals.py
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
 
 >copypasta_file_path = ""
