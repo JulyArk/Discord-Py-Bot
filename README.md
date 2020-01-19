@@ -46,7 +46,8 @@ Paste and fill it with your token
 >bot_token = ""
 
 # Commands:   
-CopyPasta = Bot responds to keywords by posting a message    
+CopyPasta = Bot responds to keywords by posting a message  
+
     -addpasta:  Add response to keyword 
     
 >Example: .addpasta test "test response" 1
@@ -69,7 +70,8 @@ Dictionary = Parsing trough urban dictionary
     
 >Example: .wotd
           
-DiscordBotVoice = Supposed to play music but it'll be added later   
+DiscordBotVoice = Supposed to play music but it'll be added later 
+
     -join:      Bot joins the voice channel the user is in   
     -leave:     Bot leaves voice   
          
@@ -80,18 +82,21 @@ DiscordRateGirl (BETA) = Generates 2 PRNG values that stay consistent depending 
          
          
 Miscellaneous = For filler commands that don't deserve their own class   
+    
     -avm:       Print avatar of pinged User   
     -badbot:    Same as goodbot       
     -cm:        Turns cm (height) to ft + inch (metric to imperial) by approximation   
     -dice:      Rolls 2 dice ( returns 2 values between 1-6)   
+    
     -erase:     Erase N messages (admin only)  
     
 >Example: .erase 5  # erases 5 messages
 
-    -ft:        Turns height ft.inch (Eg: 5.11) to cm (imperial to metric)      
-    -img:       Returns the first result from google images      
-    -goodbot:   Filler command. Bot sends a message on call.      
-    -hide:      Removes the messages of a user from a channel (admin only)
+    -ft:        Turns height ft.inch (Eg: 5.11) to cm (imperial to metric)       
+    -img:       Returns the first result from google images   
+    -gif        Returns the first gif from google images, or none  
+    -goodbot:   Filler command. Bot sends a message on call.       
+    -hide:      Removes the messages of a user from a channel (admin only)    
     
 >Example: .hide @User 5  # Delete 5 messages of @User
 
@@ -100,6 +105,7 @@ Miscellaneous = For filler commands that don't deserve their own class
     -lb:        Turn lb into kg (imperial to metric)   
          
 Reactions = Bot adds a reaction to a message that contains certain keywords   
+    
     -addreact:  Add a reaction to a keyword/keywords  
     
 >Example: .addreact love :heart:
@@ -126,6 +132,7 @@ Youtube = Parsing Youtube
     -yt:        First result from youtube of a topic     
     
 Blacklist = Bot blacklists a message/word/emoji/user !in the posted channel! TODO: make it blacklist serverwide
+   
     -blacklist: 
     
 >Example: .blacklist word idiot
