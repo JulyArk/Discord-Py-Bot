@@ -14,10 +14,10 @@ Reddit API info: https://stackoverflow.com/a/42304034
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
 
 >copypasta_file_path = ""
->reactions_file_path = ""
->banned_subredditss = ""
->blacklist_file_path = ""
->settings_file_path = ""
+reactions_file_path = ""
+banned_subredditss = ""
+blacklist_file_path = ""
+settings_file_path = ""
 
 
 >reddit_class_client_id = ""
