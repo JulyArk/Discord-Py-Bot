@@ -6,6 +6,8 @@
 Discord bot token: https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord
 
 Reddit API info: https://stackoverflow.com/a/42304034
+ # Disclaimer
+ I'm not good at formatting .readme
  # Setup
 
  create a file called globals.py in directory "/classified"
