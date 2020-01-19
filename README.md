@@ -6,21 +6,21 @@
  create a py file called globals.py
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
 
-copypasta_file_path = ""
-reactions_file_path = ""
-banned_subredditss = ""
-blacklist_file_path = ""
-settings_file_path = ""
+>copypasta_file_path = ""
+>reactions_file_path = ""
+>banned_subredditss = ""
+>blacklist_file_path = ""
+>settings_file_path = ""
 
 
-reddit_class_client_id = ""
-reddit_class_client_secret = ""
-reddit_class_username = ""
-reddit_class_password = ""
-reddit_class_user_agent = ""
+>reddit_class_client_id = ""
+>reddit_class_client_secret = ""
+>reddit_class_username = ""
+>reddit_class_password = ""
+>reddit_class_user_agent = ""
 
 
-default_json_for_guild = '{ ' \
+>default_json_for_guild = '{ ' \
                          ' "blacklist": { "enabled" : 1 }, ' \
                          ' "copypasta": { "enabled" : 1 }, ' \
                          ' "dictionary": { "enabled" : 1 }, ' \
