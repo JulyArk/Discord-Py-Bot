@@ -13,12 +13,11 @@ Reddit API info: https://stackoverflow.com/a/42304034
  create a file called globals.py in directory "/classified"
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
 
->copypasta_file_path = ""           
-reactions_file_path = ""        
-banned_subredditss = ""       
-blacklist_file_path = ""       
-settings_file_path = ""      
-
+>copypasta_file_path = "pickles/copypastas/copypastas_pickle.txt"                 
+reactions_file_path = "pickles/reactions/reactions_pickle.txt"      
+banned_subredditss = "pickles/reddit/banned_subreddits"        
+blacklist_file_path = "pickles/blacklist/blacklist_pickle.txt"       
+settings_file_path = "pickles/settings/settings_pickle.txt"      
 
 >reddit_class_client_id = ""     
 reddit_class_client_secret = ""      
