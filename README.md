@@ -1,9 +1,11 @@
 # Discord-Py-Bot
  A bot in python using discord.py
- 
+ In order to run the bot you will need to generate a discord bot token as well as a reddit API app. They're free and easy to generate.
+Discord bot token: https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord
+Reddit API info: https://stackoverflow.com/a/42304034
  # Setup
 
- create a file called globals.py
+ create a file called globals.py in directory "/classified"
  Paste the following and fill it with your preffered paths, and your reddit api credentials.
 
 >copypasta_file_path = ""
@@ -35,3 +37,6 @@
                          ' "logging": { "enabled" : 1, "on_edit": {"channel_to_post_in": "667890763274780692"} } ' \
                          '}'
     
+Create a file called token.py in /classified/bot_token
+Paste and fill it with your token
+>bot_token = ""
