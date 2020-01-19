@@ -20,7 +20,7 @@ blacklist_file_path = ""
 settings_file_path = ""      
 
 
-reddit_class_client_id = ""     
+>reddit_class_client_id = ""     
 reddit_class_client_secret = ""      
 reddit_class_username = ""      
 reddit_class_password = ""      
