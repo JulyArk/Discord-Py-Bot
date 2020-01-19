@@ -116,5 +116,13 @@ dmypy.json
 # Mine
 .idea
 polyglot-master/
+src/bot_main/pickles/blacklist
+src/bot_main/pickles/settings
+src/bot_main/pickles/reddit
+src/bot_main/pickles/reactions
+src/bot_main/pickles/copypastas
+src/bot_main/chatlogs
+classified/globals.py
+classified/bot_token/token.py
 src/bot_main/test.py
 src/bot_main/testererere.py
